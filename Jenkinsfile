@@ -21,5 +21,6 @@ pipeline {
                   steps {
                         echo "Deploying in prod Area"
                   }
+            }
       }
 }
